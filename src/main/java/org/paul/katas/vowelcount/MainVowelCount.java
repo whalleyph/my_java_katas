@@ -14,4 +14,5 @@ public class MainVowelCount {
         }
         return count;
     }
+    private MainVowelCount() {}
 }
